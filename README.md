@@ -17,6 +17,6 @@ QQ群：871779
 
 ## 龙追魂(lzh)的百科专栏
 ### 基本常识
-|  |
-| --- |
-| [〖天赋介绍〗](doc/gift-intro-lzh.md) |
+| | |
+| --- | --- |
+| [〖天赋介绍〗](doc/gift-intro-lzh.md) | [〖新人礼物〗](doc/newbie-gift-lzh.md) |
