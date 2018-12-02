@@ -17,7 +17,7 @@ IP： rzr.jumbocool.com 或者 119.29.14.70
 QQ群：871779
 
 ## mushclient 机器人大集合
-[〖选人机器 〗](robots/emotion-rzr-choose-char/readme.md)
+[〖选人机器 〗](robots/emotion-rzr-choose-char/)
 
 ## 龙追魂(lzh)的百科专栏
 ### 基本常识
