@@ -1,5 +1,5 @@
 # 新人任务 
-（龙追魂lzh撰写，易吾心emotion修订）
+（龙追魂lzh撰写，易吾心emotion修改）
 
 ## 钓鱼任务
 **路径**：fly changan;#16 s;#4 w;#4 s  
