@@ -17,8 +17,8 @@ IP： rzr.jumbocool.com 或者 119.29.14.70
 QQ群：871779
 
 ## 修改记录
-* 游戏修改记录
-* 错误修改记录
+* [游戏修改记录](doc/change-history-bugfixes.md)
+* [错误修改记录](doc/change-history-game.md)
 
 ## mushclient 机器人大集合
 [〖选人机器 〗](robots/emotion-rzr-choose-char/)
