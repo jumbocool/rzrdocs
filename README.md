@@ -21,7 +21,9 @@ QQ群：871779
 * [错误修改记录](doc/change-history-bugfixes.md)
 
 ## mushclient 机器人大集合
-[〖选人机器 〗](robots/emotion-rzr-choose-char/)
+| | | | |
+| --- | --- | --- | --- |
+| [〖选人机器 〗](robots/emotion-rzr-choose-char/) | [〖选人机器 〗](robots/emotion-rzr-fishing/) | | |
 
 ## 龙追魂(lzh)的百科专栏
 ### 基本常识
