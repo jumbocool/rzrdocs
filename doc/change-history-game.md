@@ -40,3 +40,4 @@
 | 2015年1月19日 | 重新开放rzr养帽子，但难度加大 | emotion |
 | 2015年1月17日 | rzr移植到FluffOS，支持64位大整数; look 指令增加实时小地图; look 指令增加查看书籍属性; 提供maphere指令查看实时周围地图 | emotion |
 | 2015年1月17日 | 现在rzr不会再杀可以被拜师的和接受东西的NPC | emotion |
+| 历史 | 2013年及以前的历史在[这里](doc/changehistory-before-20130220.md) | |
