@@ -23,7 +23,7 @@ QQ群：871779
 ## mushclient 机器人大集合
 | | | | |
 | --- | --- | --- | --- |
-| [〖选人机器 〗](robots/emotion-rzr-choose-char/) | [〖新人钓鱼 〗](robots/emotion-rzr-fishing/) | | |
+| [〖选人机器〗](robots/emotion-rzr-choose-char/) | [〖新人钓鱼〗](robots/emotion-rzr-fishing/) | [〖傲莱国打工机器〗](robots/emotion-aolai-job/) | |
 
 ## 龙追魂(lzh)的百科专栏
 ### 基本常识
