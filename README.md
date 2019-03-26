@@ -19,6 +19,7 @@ QQ群：871779
 ## 修改记录
 * [游戏修改记录](doc/change-history-game.md)
 * [错误修改记录](doc/change-history-bugfixes.md)
+* [游戏奖惩记录](doc/rewards.md)
 
 ## mushclient 机器人大集合
 | | | | |
