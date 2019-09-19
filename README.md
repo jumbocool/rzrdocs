@@ -14,7 +14,7 @@
 ## 游戏站点
 IP： rzr.jumbocool.com 或者 129.211.106.247  
 端口： 5555  
-QQ群：871779
+QQ群：871779, 678688598
 
 ## 修改记录
 * [游戏修改记录](doc/change-history-game.md)
